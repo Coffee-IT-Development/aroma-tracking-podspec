@@ -12,18 +12,6 @@
 - An URL and Access Key you get from us, which is used when initialising the Aroma Tracking SDK.
 
 
-## Installation
-
-To install Aroma Tracking using [Swift Package Manager](https://www.swift.org/documentation/package-manager/) you can follow the [tutorial published by Apple](https://developer.apple.com/documentation/xcode/adding-package-dependencies-to-your-app) using the URL for the Aroma Tracking repo with the current version:
-
-- In Xcode, select “File” → “Add Packages...”
-- Enter https://github.com/coffee-it-development/aroma-tracking.git
-- or you can add the following dependency to your Package.swift:
-```swift
-.package(url: "https://github.com/coffee-it-development/aroma-tracking.git", from: "1.0.0")
-```
-
-
 ## Getting Started
 
 ### Initialisation
